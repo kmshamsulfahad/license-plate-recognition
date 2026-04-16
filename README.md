@@ -18,6 +18,8 @@ The system follows these steps:
 
 ## Code
 
+The implementation is available in `license_plate_recognition.ipynb`
+
 The implementation is done using Python with OpenCV and Tesseract OCR. The code performs image preprocessing, detects the license plate region, and extracts text from it.
 
 ## Code Explanation
