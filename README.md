@@ -39,7 +39,7 @@ The implementation is done using Python with OpenCV and Tesseract OCR. The code 
 Detected License Plate Number:
 MH20 DY 2363
 
-(Add your output screenshot here)
+![Output](output.png)
 
 ## Conclusion
 
